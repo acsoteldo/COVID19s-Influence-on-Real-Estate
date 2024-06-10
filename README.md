@@ -37,3 +37,6 @@ The analysis will be based on the cleaned dataset, which includes the following 
 
 ## Problem Definition
 ### Relevance:
+
+## Contact
+For any inquiries or feedback, please contact acsoteldo01@gmail.com.
