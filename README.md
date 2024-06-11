@@ -67,6 +67,9 @@ Our ask is for resources and support to conduct comprehensive data analysis, inc
 Distinct pricing patterns exist across districts and neighborhoods.
 Property type and neighborhood are significant determinants of property prices.
 Key factors influencing property prices include location, size, condition, and amenities.
+An increase in the number of property sales during the pandemic would suggest heightened market activity.
+there was a noticeable increase in average sale prices during the pandemic.
+certain property types saw a more significant price increase than others during the pandemic.
 
 ### Dashboard
 
