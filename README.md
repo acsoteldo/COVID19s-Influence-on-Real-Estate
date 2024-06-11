@@ -13,6 +13,7 @@ Excel, Jupyter, Python, SQL, Tableau
 
 ### Data Sources:
 Data.milwaukee.gov, (2023). Property Sales Data. [online] Available at: https://data.milwaukee.gov [Accessed 9th October 2023].
+Note: files dated from 2002 to 2018 were archived.
 
 The analysis will be based on the cleaned dataset, which includes the following fields:
 * PropertyID: A unique identifier for each property.
