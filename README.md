@@ -1,4 +1,4 @@
-# COVID-19s Influence on Real Estate
+# COVID19s Influence on Real Estate
 Understanding Property Prices: From Macro to Micro
 
 ## Getting Started: 
