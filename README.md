@@ -72,6 +72,7 @@ there was a noticeable increase in average sale prices during the pandemic.
 certain property types saw a more significant price increase than others during the pandemic.
 
 ### Dashboard
+![image](https://github.com/acsoteldo/COVID19s-Influence-on-Real-Estate/assets/76544489/345018a7-daa8-4799-959a-34e899e4427e)
 
 ## Next Steps
 * Conduct further analysis to identify specific neighborhoods with high potential for investment based on current pricing trends.
