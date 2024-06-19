@@ -37,7 +37,7 @@ The analysis will be based on the FOUR cleaned datasets (dated 2019 to 2022), wh
 * Sale_price: The sale price of the property.
 
 ## Problem Definition
-discern distinct pricing patterns across various districts and neighborhoods within the region of interest. By investigating price differentials based on geographical factors, we aim to identify areas with high demand, potential investment opportunities, and areas where property values may be undervalued or overvalued. Understanding these pricing dynamics can aid stakeholders, such as real estate investors, developers, and homebuyers, in making informed decisions regarding property transactions and investment strategies.
+In the wake of the COVID-19 pandemic, Milwaukee, Wisconsin has undergone a substantial transformation in its real estate landscape. This period has not only altered buyer preferences and pricing strategies but also redefined investment prospects throughout its varied districts and neighborhoods. This report meticulously examines these evolving trends, emphasizing geographical discrepancies in property valuations, pinpointing regions of heightened demand and promising investment potential, and assessing the changing perceptions of property values within the market. By analyzing these dynamics, stakeholders—including investors, developers, and prospective homeowners—can employ data-driven insights to strategically navigate Milwaukee’s dynamic real estate environment with confidence and adaptability.
 
 ### Relevance:
 To explore the key factors influencing property prices, we can employ various analytical techniques:
@@ -51,17 +51,17 @@ Regression Analysis: Performing regression analysis to quantify the relationship
 Market Segmentation: Segmenting the market based on neighborhood characteristics (e.g., urban vs. suburban, affluent vs. affordable) and analyzing pricing trends within each segment to uncover nuanced patterns.
 
 ## Hypothesis
-property prices vary significantly across different districts and neighborhoods, with certain geographical factors playing a prominent role in determining price variations. Additionally, it could be hypothesized that specific property attributes, such as size, location, condition, and amenities, exert a significant influence on property prices.
+COVID-19 has likely influenced property prices across Milwaukee's districts and neighborhoods, with size, location, condition, and amenities also impacting pricing variations.
 
 ## Vision
-The vision is to develop a comprehensive understanding of the local real estate market by uncovering distinct pricing patterns across districts and neighborhoods and identifying the key factors driving property prices. By leveraging data-driven insights, our vision is to empower stakeholders with actionable information to make informed decisions regarding property transactions and investment strategies.
+The vision is to gain a thorough understanding of Milwaukee's real estate market by uncovering distinct pricing patterns across its diverse districts and neighborhoods. Amidst the influence of COVID-19, the aim to identify the key factors driving property prices. Through rigorous analysis and data-driven insights, the goal is to empower stakeholders with actionable information. This enables informed decisions regarding property transactions and strategic investments, fostering confidence and adaptability in navigating the evolving real estate landscape.
 
 ## Objective
-* Identify distinct pricing patterns across different districts and neighborhoods.
-* Determine the key factors influencing property prices, including but not limited to location, size, condition, and amenities.
-
-### OUR ASK
-Our ask is for resources and support to conduct comprehensive data analysis, including access to the dataset, computational resources for analysis, and collaboration with domain experts or stakeholders to validate findings and insights. Additionally, we may seek assistance in implementing machine learning algorithms or advanced analytical techniques to uncover nuanced relationships within the data and develop predictive models for property prices.
+The primary objective of this analysis is to gain a comprehensive understanding of Milwaukee's real estate dynamics. By analyzing the dataset and exploring pricing variations and trends across districts and property types, this report aims to achieve the following objectives:
+* Analyze variations in average sale prices across different districts within Milwaukee to identify areas of high and low market value.
+* Explore how total property prices have evolved annually, providing insights into market trends and economic shifts over time.
+* Compare sale prices across different property types (e.g., single-family homes, condos) to discern pricing variations and investment opportunities.
+* Map out the geographical distribution of property sales and prices across Milwaukee to pinpoint areas of high demand and potential investment hotspots.
 
 ## Key Insights
 Distinct pricing patterns exist across districts and neighborhoods.
