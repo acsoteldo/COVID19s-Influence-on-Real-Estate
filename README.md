@@ -75,19 +75,10 @@ certain property types saw a more significant price increase than others during 
 ![image](https://github.com/acsoteldo/COVID19s-Influence-on-Real-Estate/assets/76544489/345018a7-daa8-4799-959a-34e899e4427e)
 
 ## Next Steps
-* Conduct further analysis to identify specific neighborhoods with high potential for investment based on current pricing trends.
-Develop targeted marketing strategies for properties in high-demand neighborhoods to maximize returns for sellers.
-Provide training sessions or workshops for real estate agents to enhance their understanding of pricing dynamics and improve negotiation skills.
-Long-term Solutions:
-
-Implement predictive modeling techniques to forecast future property prices and anticipate market trends.
-Collaborate with urban planners and policymakers to address infrastructure gaps in underserved neighborhoods, thereby boosting property values and promoting equitable development.
-Establish partnerships with local community organizations to support initiatives aimed at improving neighborhood amenities and enhancing livability, thereby attracting more buyers and investors.
-Impact on the Audience:
-
-Short-term solutions provide immediate actionable insights for real estate professionals, investors, and homeowners, enabling them to capitalize on current market opportunities and optimize their real estate transactions.
-Long-term solutions offer a strategic roadmap for stakeholders to navigate evolving market dynamics and position themselves for sustainable growth and success in the real estate industry.
-By implementing these action items, the audience can enhance their competitiveness, mitigate risks, and drive positive economic and social outcomes in their respective roles within the real estate ecosystem.
+* Conduct detailed analysis to identify neighborhoods with high potential for investment based on current pricing trends.
+* Share data-driven insights with agents to help them better advise clients on market conditions and pricing strategies.
+* Implement predictive modeling techniques to forecast future property prices and anticipate market trends.
+* Use historical data to build models that identify key factors influencing price changes and predict upcoming market shifts.
 
 ## Contact
 For any inquiries or feedback, please contact acsoteldo01@gmail.com.
