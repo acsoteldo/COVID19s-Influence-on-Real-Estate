@@ -40,15 +40,11 @@ The analysis will be based on the FOUR cleaned datasets (dated 2019 to 2022), wh
 In the wake of the COVID-19 pandemic, Milwaukee, Wisconsin has undergone a substantial transformation in its real estate landscape. This period has not only altered buyer preferences and pricing strategies but also redefined investment prospects throughout its varied districts and neighborhoods. This report examines these evolving trends, emphasizing geographical discrepancies in property valuations, and pinpointing regions of heightened demand and promising investment potential. By analyzing these dynamics, stakeholders—including investors, developers, and prospective homeowners—can employ data-driven insights to strategically navigate Milwaukee’s dynamic real estate environment with confidence and adaptability.
 
 ### Relevance:
-To explore the key factors influencing property prices, we can employ various analytical techniques:
-Correlation Analysis: Investigating the correlations between property prices and various attributes, such as size, location, number of rooms, and amenities, to identify variables strongly associated with price variations.
-Feature Importance Analysis: Utilizing machine learning algorithms or statistical techniques to determine the relative importance of different features in predicting property prices. This analysis can highlight the most influential factors driving price fluctuations.
-Segmentation Analysis: Segmenting the dataset based on property characteristics (e.g., property type, location, age) and comparing pricing trends within each segment to discern the differential impact of various factors on property prices.
-Geospatial Analysis: Incorporating geographical data to examine how property prices vary spatially and assess the role of location-specific factors, such as proximity to amenities, schools, parks, and transportation infrastructure, in shaping property values.
-Descriptive Analysis: Conducting descriptive statistics and visualizations to compare median or average property prices across different districts and neighborhoods can provide an initial overview of pricing disparities.
-Spatial Analysis: Utilizing geographic information systems (GIS) or spatial analytics techniques to map property prices and identify spatial clusters or hotspots of high-value areas.
-Regression Analysis: Performing regression analysis to quantify the relationship between property prices and geographical factors, such as proximity to amenities, schools, transportation hubs, and economic centers.
-Market Segmentation: Segmenting the market based on neighborhood characteristics (e.g., urban vs. suburban, affluent vs. affordable) and analyzing pricing trends within each segment to uncover nuanced patterns.
+Understanding the transformation of Milwaukee’s real estate market post-COVID-19 is essential for several reasons:
+* Investment Opportunities: Identifying regions of heightened demand and promising investment potential helps investors and developers make informed decisions.
+* Market Adaptability: Insight into geographical discrepancies in property valuations allows stakeholders to adjust strategies in response to changing market conditions.
+* Buyer Preferences: Analyzing altered buyer preferences and pricing strategies assists real estate agents and developers in meeting the evolving needs of homebuyers.
+* Economic Implications: Understanding these trends aids policymakers in developing initiatives to support a stable and thriving real estate market in Milwaukee.
 
 ## Hypothesis
 COVID-19 has likely influenced property prices across Milwaukee's districts and neighborhoods, with size, location, condition, and amenities also impacting pricing variations.
