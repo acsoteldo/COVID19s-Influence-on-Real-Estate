@@ -64,12 +64,11 @@ The primary objective of this analysis is to gain a comprehensive understanding 
 * Map out the geographical distribution of property sales and prices across Milwaukee to pinpoint areas of high demand and potential investment hotspots.
 
 ## Key Insights
-Distinct pricing patterns exist across districts and neighborhoods.
-Property type and neighborhood are significant determinants of property prices.
-Key factors influencing property prices include location, size, condition, and amenities.
-An increase in the number of property sales during the pandemic would suggest heightened market activity.
-there was a noticeable increase in average sale prices during the pandemic.
-certain property types saw a more significant price increase than others during the pandemic.
+* Property sales steadily increased from 2019 to 2022, with a significant jump in 2022, indicating a growing real estate market, possibly driven by increased demand or changes in buyer behavior due to the COVID-19 pandemic.
+* The average sale price declined in 2020 due to the pandemic but surged in 2022.
+* District 4 has the highest average sale prices, while District 7 has the lowest.
+* Residential properties consistently account for the highest total sale prices each year.
+* Manufacturing properties have the highest average sale price, followed by commercial properties, with residential and condominium properties much lower. This indicates a high value in industrial and commercial real estate.
 
 ### Dashboard
 ![image](https://github.com/acsoteldo/COVID19s-Influence-on-Real-Estate/assets/76544489/345018a7-daa8-4799-959a-34e899e4427e)
