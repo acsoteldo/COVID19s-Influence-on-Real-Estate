@@ -70,9 +70,9 @@ The primary objective of this analysis is to gain a comprehensive understanding 
 ![image](https://github.com/acsoteldo/COVID19s-Influence-on-Real-Estate/assets/76544489/345018a7-daa8-4799-959a-34e899e4427e)
 
 ## Next Steps
-* Conduct an in-depth analysis to pinpoint neighborhoods in Milwaukee with promising investment potential, leveraging current pricing trends and market dynamics.
-* Equip real estate agents with data-driven insights to enhance their ability to advise clients effectively on market conditions and pricing strategies.
-* Implement predictive modeling techniques to forecast future property prices in Milwaukee, enabling proactive decision-making and strategic planning.* Conduct detailed analysis to identify neighborhoods with high potential for investment based on current pricing trends.
+* Conduct an in-depth analysis to pinpoint neighborhoods in Milwaukee with promising investment potential based on current pricing trends and market dynamics.
+* Provide real estate agents with data-driven insights to enhance their ability to advise clients effectively on market conditions and pricing strategies.
+* Implement predictive modeling techniques to forecast future property prices in Milwaukee, enabling proactive decision-making and strategic planning.
 * Utilize historical data to develop models that identify and prioritize key factors driving price fluctuations, thereby anticipating and adapting to market shifts.
 * Foster a proactive approach to real estate investment by continuously refining models and strategies based on evolving market dynamics and emerging trends in Milwaukee's property market.
 
