@@ -78,3 +78,19 @@ The primary objective of this analysis is to gain a comprehensive understanding 
 
 ## Contact
 For any inquiries or feedback, please contact acsoteldo01@gmail.com.
+
+## References
+[^1]: Data Source: Kaggle
+https://www.kaggle.com/datasets/agungpambudi/property-sales-data-real-estate-trends 
+
+[^2]: Zillow and Census Bureau Data Show Pandemic’s Impact on Housing Market
+https://www.census.gov/library/stories/2021/10/zillow-and-census-bureau-data-show-pandemics-impact-on-housing-market.html 
+
+[^3]: The donut effect: How COVID-19 shapes real estate
+https://siepr.stanford.edu/publications/policy-brief/donut-effect-how-covid-19-shapes-real-estate 
+
+[^4]: Housing Demand and Remote Work
+https://www.nber.org/papers/w30041 
+
+[^5]: Housing Market Tightness During COVID-19: Increased Demand or Reduced Supply?
+https://www.federalreserve.gov/econres/notes/feds-notes/housing-market-tightness-during-covid-19-increased-demand-or-reduced-supply-20210708.html 
