@@ -37,7 +37,7 @@ The analysis will be based on the FOUR cleaned datasets (dated 2019 to 2022), wh
 * Sale_price: The sale price of the property.
 
 ## Problem Definition
-In the wake of the COVID-19 pandemic, Milwaukee, Wisconsin has undergone a substantial transformation in its real estate landscape. This period has not only altered buyer preferences and pricing strategies but also redefined investment prospects throughout its varied districts and neighborhoods. This report examines these evolving trends, emphasizing geographical discrepancies in property valuations, and pinpointing regions of heightened demand and promising investment potential. By analyzing these dynamics, stakeholders—including investors, developers, and prospective homeowners—can employ data-driven insights to strategically navigate Milwaukee’s dynamic real estate environment with confidence and adaptability.
+Following the COVID-19 pandemic, Milwaukee, Wisconsin's real estate market has gone through an extensive shift. This period has not only altered buyer preferences and pricing strategies but also redefined investment prospects throughout its varied districts and neighborhoods. This report examines these evolving trends, emphasizing geographical discrepancies in property valuations, and pinpointing regions of heightened demand and promising investment potential. By analyzing these dynamics, stakeholders—including investors, developers, and prospective homeowners—can employ data-driven insights to strategically navigate Milwaukee’s dynamic real estate environment with confidence and adaptability.
 
 ### Relevance:
 Understanding the transformation of Milwaukee’s real estate market post-COVID-19 is essential for several reasons:
